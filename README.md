@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matthew (@BobaFettyW4p)
-- 👀 I’m interested in DevOps, Cloud, Software Development
-- 🌱 I’m currently learning SQL, AWS/Terraform, Vue
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in DevOps, Cloud, your best command-line optimizations
+- 🌱 I’m currently learning Terraform, Vue, and Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on building Python modules
 - 📫 How to reach me ... matthew.ivancic91@gmail.com
 
 <!---
